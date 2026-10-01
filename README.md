@@ -100,9 +100,9 @@ View & manage blocked sites
 
 
 ## Author
-Mohammed Saud
+Saahas Sutar
 Cybersecurity & Ethical Hacking Enthusiast
-GitHub: https://github.com/Saud-Cyber
+GitHub: https://github.com/Greyninja72
 
 ## Disclaimer
 This project is for educational and research purposes only.
